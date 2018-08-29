@@ -1,4 +1,4 @@
-# Silabus Struktur Data
+# Silabus Pemrograman Web
 
 * **Mata Kuliah:** Pemrograman Web
 * **Dosen:** Ridho Rahman Hariadi, S.Kom, M.Sc (ridho@if.its.ac.id)
@@ -35,6 +35,9 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 
 ### Pertemuan 3
 * CSS
+
+### Pertemuan 4
+* JS
 
 ## Tugas
 ### Tugas 1 (individu)
