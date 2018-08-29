@@ -9,7 +9,7 @@
    * **Wakil**: RM Ivan Indrakusuma 5111740000060
 * **Jumlah Pertemuan:** 16 pertemuan, masing-masing: 3 SKS
 * **Butuh bantuan?**
-   * Lihat [issues](https://github.com/2018-PemrogramanWeb-D/syllabus/issues) yang ada atau buat _issue_ baru.
+   * Lihat [_issues_](https://github.com/2018-PemrogramanWeb-D/2018-PemrogramanWeb-D.github.io/issues) yang ada atau buat _issue_ baru.
    * Melalui grup LINE.
    * Kirim email ke dosen atau asisten untuk diskusi/konsultasi.
 
@@ -20,7 +20,7 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * CSS
 * JS
 * PHP
-* etc
+* dll
 
 ## Materi Kuliah
 ### Pertemuan 1
@@ -34,10 +34,10 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * GIT, HTML
 
 ### Pertemuan 3
-* ...
+* CSS
 
 ## Tugas
-### Tugas 1
+### Tugas 1 (individu)
 * Deadline: 04-09-2018
 * Lakukan ujicoba pull, add, commit, push ke GIT
 * Buat 1 buah halaman HTML yang berisi _link, image, table, form_
@@ -51,8 +51,14 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * https://www.sekolahkoding.com/track/mulai-belajar-website-frontend
   * https://www.codecademy.com/learn/paths/web-development
 
-### Tugas 2
+### Tugas 2 (kelompok)
 * Deadline: 11-09-2018
+* Lakukan pull, add, commit, push secara bersamaan semua anggota kelompok ke GIT
+* Lakukan ujicoba merge, branch, fork, pull request GIT
+* Buat 1 buah file CSS, pada HTML tambahkan _reference_ ke CSS tersebut 
+* 
+
+* Bacaan Wajib:
 
 ### Tugas 3
 * Deadline: 18-09-2018
