@@ -55,7 +55,7 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * https://www.sekolahkoding.com/track/mulai-belajar-website-frontend
   * https://www.codecademy.com/learn/paths/web-development
 
-### Tugas 2 (kelompok)
+### Tugas 2 (kelompok) https://classroom.github.com/g/CNrQmlgl
 * Deadline: 11-09-2018
 * Buat 1 buah file CSS, pada HTML tambahkan _reference_ ke CSS tersebut 
 * Lakukan validasi pada HTML dan CSS yang telah dibuat
