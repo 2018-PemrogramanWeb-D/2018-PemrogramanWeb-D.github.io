@@ -1,6 +1,6 @@
 # Silabus Pemrograman Web
 
-* **Mata Kuliah:** Pemrograman Web
+* **Mata Kuliah:** IF184504 Pemrograman Web
 * **Dosen:** Ridho Rahman Hariadi, S.Kom, M.Sc (ridho@if.its.ac.id)
    * **Topik Penelitian**: CyberSecurity, Internet of Things, Smart City, Automation
 * **Asisten:** Djohan Prabowo (djohan.prabowo1927@gmail.com)
@@ -31,10 +31,11 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Ujicoba upload tugas ke Github
 
 ### Pertemuan 2
-* GIT, HTML
+* GIT, HTML, W3C Validator
+* Commit awal tugas2 ke Github
 
 ### Pertemuan 3
-* CSS
+* CSS, CDN
 
 ### Pertemuan 4
 * JS
@@ -56,18 +57,21 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 
 ### Tugas 2 (kelompok)
 * Deadline: 11-09-2018
+* Buat 1 buah file CSS, pada HTML tambahkan _reference_ ke CSS tersebut 
+* Lakukan validasi pada HTML dan CSS yang telah dibuat
 * Lakukan pull, add, commit, push secara bersamaan semua anggota kelompok ke GIT
 * Lakukan ujicoba merge, branch, fork, pull request GIT
-* Buat 1 buah file CSS, pada HTML tambahkan _reference_ ke CSS tersebut 
-* 
+* Pelajari mengenai CDN
 
 * Bacaan Wajib:
-
+  * ...
+  
 ### Tugas 3
 * Deadline: 18-09-2018
 
 ## Peraturan Kelas
 * Kelas ini menerapkan Student Centered Learning (SCL).
+* Pada setiap pertemuan akan diberikan tugas.
 * Semua tindakan plagiarisme akan mendapat hukuman berupa nilai 0.
 * Tidak diperbolehkan menggunakan semua jenis alat elektronik (ponsel, laptop, dll) di kelas kecuali mendapat ijin dari dosen.
 
