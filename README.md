@@ -38,7 +38,13 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * CSS, CDN
 
 ### Pertemuan 4
-* JS
+* jQuery
+* Diskusi kelompok untuk mendiskusikan web project yang akan dibuat (1 kelompok max 3 orang). Tentukan:
+  * Judulnya apa
+  * Penggunanya siapa saja
+  * Fiturnya apa saja
+  * Halaman yang akan dibuat apa saja
+  * Desain UI untuk tiap halaman
 
 ## Tugas
 ### Tugas 1 (individu)
@@ -66,8 +72,20 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Bacaan Wajib:
   * ...
   
-### Tugas 3
-* Deadline: 18-09-2018
+### Tugas 3 (individu)
+* Deadline: 25-09-2018
+* Buat 1 buah file HTML yang mengimplementasikan:
+  * jQuery Animate untuk membuat simple animasi di dalam web (ketika tombol diklik maka animasi akan bekerja) 
+  * jQuery HTML Set Content and Attributes untuk mengganti konten di dalam web (ketika tombol diklik maka konten akan berubah) 
+  * jQuery Filter untuk melakukan filter konten di dalam table (ketika textbox diisi maka filter akan bekerja)
+  
+* Bacaan Wajib:
+  * https://www.codecademy.com/learn/learn-jquery
+* Bacaan Tambahan:
+  * https://www.tutorialspoint.com/jquery/
+  * https://www.w3schools.com/jquery/
+  * https://www.w3schools.com/jquery/jquery_filters.asp
+  * https://learn.jquery.com
 
 ## Peraturan Kelas
 * Kelas ini menerapkan Student Centered Learning (SCL).
