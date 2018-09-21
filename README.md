@@ -46,6 +46,18 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * Halaman yang akan dibuat apa saja
   * Desain UI untuk tiap halaman
 
+### Pertemuan 5
+* PHP
+  * Form action
+  * Form validation
+  * Session
+* Studi kasus login form
+
+* Bacaan Wajib:
+  * https://www.w3schools.com/Php/php_forms.asp
+  * https://www.w3schools.com/Php/php_form_validation.asp
+  * https://www.w3schools.com/php/php_sessions.asp
+  
 ## Tugas
 ### Tugas 1 (individu)
 * Deadline: 04-09-2018
