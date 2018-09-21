@@ -72,7 +72,7 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Bacaan Wajib:
   * ...
   
-### Tugas 3 (individu)
+### Tugas 3 (individu) https://classroom.github.com/a/uk7R3Jch
 * Deadline: 25-09-2018
 * Buat 1 buah file HTML yang mengimplementasikan:
   * jQuery Animate untuk membuat simple animasi di dalam web (ketika tombol diklik maka animasi akan bekerja) 
