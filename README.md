@@ -99,6 +99,15 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * https://www.w3schools.com/jquery/jquery_filters.asp
   * https://learn.jquery.com
 
+### Tugas 4 (individu) 
+* Deadline: 02-10-2018
+* Buat login form yang mengimplementasikan
+  * Form action
+  * Form validation
+  * Session
+  * Redirect kembali ke login form jika password salah
+  * Tampilkan ucapan selamat pagi/siang/sore/malam sesuai waktu server apabila password benar
+  
 ## Peraturan Kelas
 * Kelas ini menerapkan Student Centered Learning (SCL).
 * Pada setiap pertemuan akan diberikan tugas.
