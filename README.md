@@ -99,7 +99,7 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * https://www.w3schools.com/jquery/jquery_filters.asp
   * https://learn.jquery.com
 
-### Tugas 4 (individu) 
+### Tugas 4 (individu) https://classroom.github.com/a/6uVTUjnf
 * Deadline: 02-10-2018
 * Buat login form yang mengimplementasikan
   * Form action
