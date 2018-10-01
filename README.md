@@ -58,6 +58,14 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * https://www.w3schools.com/Php/php_form_validation.asp
   * https://www.w3schools.com/php/php_sessions.asp
   
+### Pertemuan 6
+* PHP
+  * Buat table di MySQL dengan phpMyAdmin 
+  * Koneksi ke MySQL
+  * Insert data ke MySQL
+  * Select data di MySQL
+* Studi kasus address book
+
 ## Tugas
 ### Tugas 1 (individu)
 * Deadline: 04-09-2018
@@ -107,6 +115,15 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * Session
   * Redirect kembali ke login form jika password salah
   * Tampilkan ucapan selamat pagi/siang/sore/malam sesuai waktu server apabila password benar
+  
+### Tugas 5 (individu) https://classroom.github.com/a/9ZYHq7ty
+* Deadline: 09-10-2018
+* Buat address book yang mengimplementasikan
+  * Koneksi ke MySQL
+  * Insert data ke MySQL
+  * Select data di MySQL
+  * Update data di MySQL
+  * Delete data di MySQL
   
 ## Peraturan Kelas
 * Kelas ini menerapkan Student Centered Learning (SCL).
